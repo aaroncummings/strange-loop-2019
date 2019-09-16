@@ -4,6 +4,7 @@
 
 Unless otherwise noted, all documents were retrieved in September 2019.
 
+*   Dethloff, Henry C., and Ronald A. Schorn. Voyager's Grand Tour: to the Outer Planets and Beyond. Konecky & Konecky, 2009.
 *   Redmond, Charles and Frank Bristow; "Voyager Backgrounder - August 1981"  
     [https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19810023559.pdf](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19810023559.pdf)
 *   Haynes, Robert; "How We Get Pictures From Space", NASA Facts (NF-151/7-87)  
